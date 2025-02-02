@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "name": "Parbon Gold Japanese Cough and Flu Medicine",
+      "price": 10.00,
+      "discountPrice": 2.00,
+      "discount": "75% OFF",
+      "rating": 5.0,
+      "image": "napa.jpg",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Herbal Green Tea - Organic",
+      "price": 15.00,
+      "discountPrice": 8.00,
+      "discount": "47% OFF",
+      "rating": 4.5,
+      "image": "green_tea.jpg",
+      "stock": 35
+    },
+    {
+      "id": 3,
+      "name": "Vitamin C 1000mg Tablets",
+      "price": 12.00,
+      "discountPrice": 6.00,
+      "discount": "50% OFF",
+      "rating": 4.8,
+      "image": "vitamin_c.jpg",
+      "stock": 50
+    },
+    {
+      "id": 4,
+      "name": "Energy Boost Protein Bar",
+      "price": 5.00,
+      "discountPrice": 3.50,
+      "discount": "30% OFF",
+      "rating": 4.2,
+      "image": "protein_bar.jpg",
+      "stock": 100
+    },
+    {
+      "id": 5,
+      "name": "Organic Honey - 500g",
+      "price": 18.00,
+      "discountPrice": 12.00,
+      "discount": "33% OFF",
+      "rating": 4.7,
+      "image": "honey.jpg",
+      "stock": 40
+    },
+    {
+      "id": 6,
+      "name": "Multivitamin Gummies",
+      "price": 20.00,
+      "discountPrice": 14.00,
+      "discount": "30% OFF",
+      "rating": 4.6,
+      "image": "gummies.jpg",
+      "stock": 60
+    },
+    {
+      "id": 7,
+      "name": "Anti-Dandruff Shampoo",
+      "price": 8.00,
+      "discountPrice": 5.00,
+      "discount": "37% OFF",
+      "rating": 4.3,
+      "image": "shampoo.jpg",
+      "stock": 80
+    },
+    {
+      "id": 8,
+      "name": "Almond Body Lotion",
+      "price": 14.00,
+      "discountPrice": 9.00,
+      "discount": "36% OFF",
+      "rating": 4.4,
+      "image": "lotion.jpg",
+      "stock": 70
+    },
+    {
+      "id": 9,
+      "name": "Gluten-Free Oats - 1kg",
+      "price": 11.00,
+      "discountPrice": 7.00,
+      "discount": "36% OFF",
+      "rating": 4.9,
+      "image": "oats.jpg",
+      "stock": 55
+    },
+    {
+      "id": 10,
+      "name": "Natural Face Wash",
+      "price": 9.00,
+      "discountPrice": 6.50,
+      "discount": "28% OFF",
+      "rating": 4.1,
+      "image": "face_wash.jpg",
+      "stock": 90
+    },
+    {
+      "id": 11,
+      "name": "Organic Chia Seeds",
+      "price": 13.00,
+      "discountPrice": 8.50,
+      "discount": "34% OFF",
+      "rating": 4.5,
+      "image": "chia_seeds.jpg",
+      "stock": 45
+    },
+    {
+      "id": 12,
+      "name": "Omega-3 Fish Oil Capsules",
+      "price": 25.00,
+      "discountPrice": 18.00,
+      "discount": "28% OFF",
+      "rating": 4.8,
+      "image": "fish_oil.jpg",
+      "stock": 30
+    },
+    {
+      "id": 13,
+      "name": "Herbal Hair Oil",
+      "price": 16.00,
+      "discountPrice": 10.00,
+      "discount": "38% OFF",
+      "rating": 4.6,
+      "image": "hair_oil.jpg",
+      "stock": 75
+    },
+    {
+      "id": 14,
+      "name": "Coconut Water - 1L",
+      "price": 7.00,
+      "discountPrice": 4.00,
+      "discount": "43% OFF",
+      "rating": 4.3,
+      "image": "coconut_water.jpg",
+      "stock": 85
+    },
+    {
+      "id": 15,
+      "name": "Organic Almond Butter",
+      "price": 22.00,
+      "discountPrice": 15.00,
+      "discount": "32% OFF",
+      "rating": 4.7,
+      "image": "almond_butter.jpg",
+      "stock": 50
+    },
+    {
+      "id": 16,
+      "name": "Detox Green Smoothie Mix",
+      "price": 19.00,
+      "discountPrice": 12.00,
+      "discount": "37% OFF",
+      "rating": 4.4,
+      "image": "smoothie_mix.jpg",
+      "stock": 65
+    },
+    {
+      "id": 17,
+      "name": "Calcium & Vitamin D Tablets",
+      "price": 15.00,
+      "discountPrice": 9.00,
+      "discount": "40% OFF",
+      "rating": 4.9,
+      "image": "calcium_d.jpg",
+      "stock": 90
+    },
+    {
+      "id": 18,
+      "name": "Natural Lip Balm Pack",
+      "price": 6.00,
+      "discountPrice": 4.00,
+      "discount": "33% OFF",
+      "rating": 4.5,
+      "image": "lip_balm.jpg",
+      "stock": 120
+    },
+    {
+      "id": 19,
+      "name": "Ginger & Lemon Herbal Tea",
+      "price": 14.00,
+      "discountPrice": 9.50,
+      "discount": "32% OFF",
+      "rating": 4.7,
+      "image": "herbal_tea.jpg",
+      "stock": 50
+    },
+    {
+      "id": 20,
+      "name": "Organic Brown Rice - 2kg",
+      "price": 18.00,
+      "discountPrice": 13.00,
+      "discount": "28% OFF",
+      "rating": 4.6,
+      "image": "brown_rice.jpg",
+      "stock": 60
+    }
+  ]
+  
