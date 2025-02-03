@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "name": "Paracetamol",
+      "price": 18.00,
+      "discountPrice": 12.00,
+      "discount": "33% OFF",
+      "rating": 4.7,
+      "image": "https://phabcart.imgix.net/cdn/scdn/images/uploads/m0459_web.jpg",
+      "description": "Effective for fever and mild pain relief.",
+      "stock": 40
+    },
+    {
+      "id": 2,
+      "name": "Ibuprofen",
+      "price": 22.00,
+      "discountPrice": 15.00,
+      "discount": "31% OFF",
+      "rating": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAREe8on9MO2wK5Xu8yPdwaffpK4VEXk8nQ&s",
+      "description": "Reduces inflammation and relieves pain.",
+      "stock": 35
+    },
+    {
+      "id": 3,
+      "name": "Aspirin",
+      "price": 20.00,
+      "discountPrice": 14.00,
+      "discount": "30% OFF",
+      "rating": 4.6,
+      "image": "https://www.albionbd.com/wp-content/uploads/2021/08/Aspirin-300mg-Soluble-Tablet.jpg",
+      "description": "Used to treat pain, fever, and inflammation.",
+      "stock": 50
+    },
+    {
+      "id": 4,
+      "name": "Antacid",
+      "price": 15.00,
+      "discountPrice": 10.00,
+      "discount": "33% OFF",
+      "rating": 4.4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvdZureMmFZrSDztFe-Ki1GH17YWhbPeoOg&s",
+      "description": "Relieves heartburn and indigestion quickly.",
+      "stock": 45
+    },
+    {
+      "id": 5,
+      "name": "Cough Syrup",
+      "price": 30.00,
+      "discountPrice": 20.00,
+      "discount": "33% OFF",
+      "rating": 4.8,
+      "image": "https://cdn2.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC80ODgzXC80ODgzLUQtQ291Z2gtMTAwbWwtY29weS10N2prODkuanBlZyIsImVkaXRzIjpbXX0=",
+      "description": "Soothes throat and reduces coughing fast.",
+      "stock": 28
+    },
+    {
+      "id": 6,
+      "name": "Vitamin C",
+      "price": 25.00,
+      "discountPrice": 18.00,
+      "discount": "28% OFF",
+      "rating": 4.9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfSwluJW6CAovkzzcdt5jZl7g05DwysH67Ug&s",
+      "description": "Boosts immunity and improves skin health.",
+      "stock": 60
+    },
+    {
+      "id": 7,
+      "name": "Amoxicillin",
+      "price": 35.00,
+      "discountPrice": 25.00,
+      "discount": "29% OFF",
+      "rating": 4.3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwboJTeZJZJZhhPrNzdcuTfA3UvRRz1Z68jw&s",
+      "description": "Antibiotic for bacterial infections treatment.",
+      "stock": 32
+    },
+    {
+      "id": 8,
+      "name": "Cetirizine",
+      "price": 12.00,
+      "discountPrice": 8.00,
+      "discount": "33% OFF",
+      "rating": 4.7,
+      "image": "https://www.albionbd.com/wp-content/uploads/2021/08/Cetirizine-Tablet.jpg",
+      "description": "Relieves allergy symptoms like sneezing.",
+      "stock": 48
+    },
+    {
+      "id": 9,
+      "name": "Loperamide",
+      "price": 18.00,
+      "discountPrice": 13.00,
+      "discount": "28% OFF",
+      "rating": 4.4,
+      "image": "https://image.made-in-china.com/202f0j00iLgGzhslgcok/Loperamide-Hydrochloride-Capsule-2mg-GMP-Medicine.webp",
+      "description": "Treats diarrhea and reduces bowel movements.",
+      "stock": 40
+    },
+    {
+      "id": 10,
+      "name": "Omeprazole",
+      "price": 27.00,
+      "discountPrice": 19.00,
+      "discount": "30% OFF",
+      "rating": 4.6,
+      "image": "https://cdn2.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC83Mjk4OFwvNzI5ODgtT21lcHJhem9sZS0yMC1tZy14MmZ2cmcuanBlZyIsImVkaXRzIjpbXX0=",
+      "description": "Reduces stomach acid and treats ulcers.",
+      "stock": 33
+    },
+    {
+      "id": 11,
+      "name": "Multivitamins",
+      "price": 40.00,
+      "discountPrice": 28.00,
+      "discount": "30% OFF",
+      "rating": 4.9,
+      "image": "https://thehouseofgoodies.com/cdn/shop/products/enervon-tablet-product-shot-new_3f442925-c9f6-4b36-8cff-40021c452e58_530x@2x.jpg?v=1664063028",
+      "description": "Essential vitamins for daily health boost.",
+      "stock": 55
+    },
+    {
+      "id": 12,
+      "name": "Metformin",
+      "price": 32.00,
+      "discountPrice": 22.00,
+      "discount": "31% OFF",
+      "rating": 4.5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-nrMpjTvP7WteVJhU1Yn3R0vazGm1B7MefA&s",
+      "description": "Used to control blood sugar levels effectively.",
+      "stock": 38
+    },
+    {
+      "id": 13,
+      "name": "Losartan",
+      "price": 29.00,
+      "discountPrice": 20.00,
+      "discount": "31% OFF",
+      "rating": 4.3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWYelZV985CxdTjtBZxn8DkPx8Wc-apAsvPw&s",
+      "description": "Treats high blood pressure and protects kidneys.",
+      "stock": 36
+    },
+    {
+      "id": 14,
+      "name": "Amlodipine",
+      "price": 26.00,
+      "discountPrice": 18.00,
+      "discount": "30% OFF",
+      "rating": 4.6,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAvb62McavtRsARHZqcGp1oTizjO3HxkjA4w&s",
+      "description": "Helps lower blood pressure and chest pain.",
+      "stock": 42
+    },
+    {
+      "id": 15,
+      "name": "Insulin",
+      "price": 50.00,
+      "discountPrice": 35.00,
+      "discount": "30% OFF",
+      "rating": 4.8,
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap22217013293155.jpg?c=original",
+      "description": "Controls blood sugar in diabetic patients effectively.",
+      "stock": 25
+    },
+    {
+      "id": 16,
+      "name": "Calcium Tablets",
+      "price": 20.00,
+      "discountPrice": 14.00,
+      "discount": "30% OFF",
+      "rating": 4.7,
+      "image": "https://cdn2.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC8yNTY2NVwvMjU2NjUtY2FsY2l1bS1ELWNvcHktMDY4b2MwLmpwZWciLCJlZGl0cyI6W119",
+      "description": "Supports strong bones and healthy teeth naturally.",
+      "stock": 50
+    },
+    {
+      "id": 17,
+      "name": "Iron Supplement",
+      "price": 18.00,
+      "discountPrice": 12.00,
+      "discount": "33% OFF",
+      "rating": 4.5,
+      "image": "https://bdsupplementstore.com/wp-content/uploads/2021/11/natures-bounty-iron-tablet-in-bangladesh.jpg",
+      "description": "Prevents iron deficiency and treats anemia effectively.",
+      "stock": 45
+    },
+    {
+      "id": 18,
+      "name": "Zinc Tablets",
+      "price": 15.00,
+      "discountPrice": 10.00,
+      "discount": "33% OFF",
+      "rating": 4.4,
+      "image": "https://cdn2.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC8xNzkyNVwvMTc5MjUtU3F1YXJlLVppbmMtMjAtY29weS11cGk0ajguanBlZyIsImVkaXRzIjpbXX0=",
+      "description": "Boosts immunity and improves metabolism naturally.",
+      "stock": 60
+    },
+    {
+      "id": 19,
+      "name": "Antiseptic Cream",
+      "price": 25.00,
+      "discountPrice": 17.00,
+      "discount": "32% OFF",
+      "rating": 4.6,
+      "image": "https://himalayawellness.in/cdn/shop/products/antiseptic-cream.jpg?v=1622099573",
+      "description": "Prevents infections and heals wounds effectively.",
+      "stock": 30
+    },
+    {
+      "id": 20,
+      "name": "Energy Drink",
+      "price": 12.00,
+      "discountPrice": 8.00,
+      "discount": "33% OFF",
+      "rating": 4.3,
+      "image": "https://as1.ftcdn.net/jpg/03/10/10/80/1000_F_310108002_RAsxQSu7ZRPXof8xsYPcaiJ8KcJAQuuh.jpg",
+      "description": "Instant energy booster for daily activities.",
+      "stock": 70
+    }
+  ]
+  
