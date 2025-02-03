@@ -17,7 +17,7 @@
       "discountPrice": 15.00,
       "discount": "31% OFF",
       "rating": 4.5,
-      "image": "ibuprofen.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAREe8on9MO2wK5Xu8yPdwaffpK4VEXk8nQ&s",
       "description": "Reduces inflammation and relieves pain.",
       "stock": 35
     },
@@ -28,7 +28,7 @@
       "discountPrice": 14.00,
       "discount": "30% OFF",
       "rating": 4.6,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAREe8on9MO2wK5Xu8yPdwaffpK4VEXk8nQ&s",
+      "image": "https://www.albionbd.com/wp-content/uploads/2021/08/Aspirin-300mg-Soluble-Tablet.jpg",
       "description": "Used to treat pain, fever, and inflammation.",
       "stock": 50
     },
@@ -116,7 +116,7 @@
       "discountPrice": 28.00,
       "discount": "30% OFF",
       "rating": 4.9,
-      "image": "multivitamins.jpg",
+      "image": "https://thehouseofgoodies.com/cdn/shop/products/enervon-tablet-product-shot-new_3f442925-c9f6-4b36-8cff-40021c452e58_530x@2x.jpg?v=1664063028",
       "description": "Essential vitamins for daily health boost.",
       "stock": 55
     },
@@ -127,7 +127,7 @@
       "discountPrice": 22.00,
       "discount": "31% OFF",
       "rating": 4.5,
-      "image": "metformin.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-nrMpjTvP7WteVJhU1Yn3R0vazGm1B7MefA&s",
       "description": "Used to control blood sugar levels effectively.",
       "stock": 38
     },
@@ -138,7 +138,7 @@
       "discountPrice": 20.00,
       "discount": "31% OFF",
       "rating": 4.3,
-      "image": "losartan.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWYelZV985CxdTjtBZxn8DkPx8Wc-apAsvPw&s",
       "description": "Treats high blood pressure and protects kidneys.",
       "stock": 36
     },
@@ -149,7 +149,7 @@
       "discountPrice": 18.00,
       "discount": "30% OFF",
       "rating": 4.6,
-      "image": "amlodipine.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAvb62McavtRsARHZqcGp1oTizjO3HxkjA4w&s",
       "description": "Helps lower blood pressure and chest pain.",
       "stock": 42
     },
@@ -160,7 +160,7 @@
       "discountPrice": 35.00,
       "discount": "30% OFF",
       "rating": 4.8,
-      "image": "insulin.jpg",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap22217013293155.jpg?c=original",
       "description": "Controls blood sugar in diabetic patients effectively.",
       "stock": 25
     },
@@ -171,7 +171,7 @@
       "discountPrice": 14.00,
       "discount": "30% OFF",
       "rating": 4.7,
-      "image": "calcium_tablets.jpg",
+      "image": "https://cdn2.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC8yNTY2NVwvMjU2NjUtY2FsY2l1bS1ELWNvcHktMDY4b2MwLmpwZWciLCJlZGl0cyI6W119",
       "description": "Supports strong bones and healthy teeth naturally.",
       "stock": 50
     },
@@ -182,7 +182,7 @@
       "discountPrice": 12.00,
       "discount": "33% OFF",
       "rating": 4.5,
-      "image": "iron_supplement.jpg",
+      "image": "https://bdsupplementstore.com/wp-content/uploads/2021/11/natures-bounty-iron-tablet-in-bangladesh.jpg",
       "description": "Prevents iron deficiency and treats anemia effectively.",
       "stock": 45
     },
@@ -193,7 +193,7 @@
       "discountPrice": 10.00,
       "discount": "33% OFF",
       "rating": 4.4,
-      "image": "zinc_tablets.jpg",
+      "image": "https://cdn2.arogga.com/eyJidWNrZXQiOiJhcm9nZ2EiLCJrZXkiOiJQcm9kdWN0LXBfaW1hZ2VzXC8xNzkyNVwvMTc5MjUtU3F1YXJlLVppbmMtMjAtY29weS11cGk0ajguanBlZyIsImVkaXRzIjpbXX0=",
       "description": "Boosts immunity and improves metabolism naturally.",
       "stock": 60
     },
@@ -204,7 +204,7 @@
       "discountPrice": 17.00,
       "discount": "32% OFF",
       "rating": 4.6,
-      "image": "antiseptic_cream.jpg",
+      "image": "https://himalayawellness.in/cdn/shop/products/antiseptic-cream.jpg?v=1622099573",
       "description": "Prevents infections and heals wounds effectively.",
       "stock": 30
     },
@@ -215,7 +215,7 @@
       "discountPrice": 8.00,
       "discount": "33% OFF",
       "rating": 4.3,
-      "image": "energy_drink.jpg",
+      "image": "https://as1.ftcdn.net/jpg/03/10/10/80/1000_F_310108002_RAsxQSu7ZRPXof8xsYPcaiJ8KcJAQuuh.jpg",
       "description": "Instant energy booster for daily activities.",
       "stock": 70
     }
